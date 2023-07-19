@@ -39,11 +39,6 @@
       * This can be considered as the baseline model to obtain predictions since it is easy to explain. 
       * Logistic Regression train recall: 0.69
       * Logistic Regression test recall: 0.66
-  ### 3.2.	K-nearest Neighbors:
-      * The k-nearest neighbors algorithm, also known as KNN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an         individual data point. 
-      * Best hyperparameters: K = 55
-      * K nearest neighbors train recall: 0.83
-      * K nearest neighbors test recall: 0.69
   ### 3.3.	Naïve Bayes:
       * Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common                 principle, i.e., every pair of features being classified is independent of each other.
       * Best hyperparameters: var_smoothing= 0.657933224657568
@@ -52,8 +47,8 @@
   ### 3.4.	Decision Tree:
       * A Decision tree is a flowchart-like tree structure, where each internal node denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (terminal node)          holds a class label.
       * Best hyperparameters: max_depth: 1, min_samples_leaf: 0.1, min_samples_split: 0.1
-      * Decision tree train recall: 0.86
-      * Decision tree test recall: 0.77
+      * Decision tree train recall: 0.82
+      * Decision tree test recall: 0.82
   ### 3.5.	Support Vector Machine:
       * Support Vector Machine (SVM) is a supervised machine learning algorithm used for both classification and regression. The objective of SVM algorithm is to find a hyperplane in an N-dimensional         space that distinctly classifies the data points.
       * Best hyperparameters: C: 1, gamma: 0.01, kernel: rbf
