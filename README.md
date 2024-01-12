@@ -2,7 +2,7 @@
 <img src="https://cdn-images-1.medium.com/max/800/0*0btxf-n_Sb7xkttM.gif"  width="600" height="400" alt="GIF">
 </p>
 
-## Another link
+## <ins>Another link</ins>
 https://nbviewer.org/github/hamant-jagwan/Cardiovascular_Risk_Prediction--ML--Classification/blob/main/Cardiovascular_Risk_Prediction.ipynb
 
 ## <ins>1. Introduction</ins>
