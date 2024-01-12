@@ -1,6 +1,8 @@
 <p align="center"> 
 <img src="https://cdn-images-1.medium.com/max/800/0*0btxf-n_Sb7xkttM.gif"  width="600" height="400" alt="GIF">
 </p>
+## Another link
+https://nbviewer.org/github/hamant-jagwan/Cardiovascular_Risk_Prediction--ML--Classification/blob/main/Cardiovascular_Risk_Prediction.ipynb
 
 ## <ins>1. Introduction</ins>
     * Cardiovascular diseases (CVDs) are the major cause of mortality worldwide. According to WHO, 17.9 million people died from CVDs in 2019, accounting for 32% of all global fatalities.
